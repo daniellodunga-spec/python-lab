@@ -1,3 +1,5 @@
+from utils import greet
+print(greet("Daniel"))
 from src.utils import greet
 from utils import square, is_even, celsius_to_fahrenheit
 number = float(input('Enter a number'))
